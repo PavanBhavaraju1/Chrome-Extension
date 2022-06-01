@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"save_ur_links",
+    "action":{
+        "default_popup":"index.html.html",
+        "default_icon":"logo3.png"
+    },
+"permissions": [
+    "tabs"
+]
+}
